@@ -1,4 +1,9 @@
 # RQLayoutCell
-UITableViewCell height calculating！来自百度知道团队的开源项目学习下-----
+
+UITableViewCell高度计算
+
+![Demo Overview](https://github.com/MrRainQ/RQLayoutCell/blob/master/Sceenshots/screenshot2.gif)
 
 
+中文博客： 
+[http://blog.sunnyxx.com/2015/05/17/cell-height-calculation/](http://blog.sunnyxx.com/2015/05/17/cell-height-calculation/)
